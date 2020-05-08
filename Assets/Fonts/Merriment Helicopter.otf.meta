@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1b084640c9c772440a896ee087f3a98c
+timeCreated: 1503644153
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Merriment Helicopter
+  fontNames:
+  - Merriment Helicopter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

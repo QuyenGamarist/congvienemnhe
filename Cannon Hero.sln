@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cannon Hero", "Assembly-CSharp.csproj", "{9E519C17-B265-133B-CC56-F758DB8FBBB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cannon Hero", "Assembly-CSharp-Editor.csproj", "{FF38E8A8-C768-4E21-4742-DB57004182C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E519C17-B265-133B-CC56-F758DB8FBBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E519C17-B265-133B-CC56-F758DB8FBBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E519C17-B265-133B-CC56-F758DB8FBBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E519C17-B265-133B-CC56-F758DB8FBBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF38E8A8-C768-4E21-4742-DB57004182C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF38E8A8-C768-4E21-4742-DB57004182C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF38E8A8-C768-4E21-4742-DB57004182C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF38E8A8-C768-4E21-4742-DB57004182C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
